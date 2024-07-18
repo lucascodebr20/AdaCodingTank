@@ -1,6 +1,4 @@
-package Exercicio02;
-
-import java.util.Scanner;
+package DelirioTeste01;
 
 import java.util.Scanner;
 
